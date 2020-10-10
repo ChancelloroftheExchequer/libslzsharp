@@ -1,0 +1,11 @@
+﻿
+c:
+
+cd "C:\personal\ham\libslz\src\libslzsharp2\"
+
+dotnet build --configuration Release
+
+cd C:\personal\ham\libslz\src\libslzsharp2\libslzsharp2\bin\Release\netcoreapp2.1\win10-x64\
+
+libslzsharp2.exe
+

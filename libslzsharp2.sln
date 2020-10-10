@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libslzsharp2", "libslzsharp2\libslzsharp2.csproj", "{87AE2818-DC7A-4970-9B51-153C666E36EE}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Debug|x64.ActiveCfg = Debug|x64
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Debug|x64.Build.0 = Debug|x64
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Release|x64.ActiveCfg = Release|x64
+		{87AE2818-DC7A-4970-9B51-153C666E36EE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C07A78-CEFB-40B8-B22C-2A4DFC74F012}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

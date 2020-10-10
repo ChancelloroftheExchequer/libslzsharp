@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/libslzsharp2/bin
+/libslzsharp2/obj
