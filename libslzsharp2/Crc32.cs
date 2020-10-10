@@ -1,7 +1,7 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace libslzsharp2
+﻿namespace libslzsharp2
 {
+    using System.Runtime.CompilerServices;
+
     public static class Crc32
     {
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
