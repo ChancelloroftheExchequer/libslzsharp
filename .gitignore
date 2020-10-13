@@ -7,3 +7,5 @@
 /.vs/slnx.sqlite
 /libslzsharp2/bin
 /libslzsharp2/obj
+/LocalBenchAndTest/bin
+/LocalBenchAndTest/obj
